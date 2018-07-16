@@ -1,0 +1,82 @@
+
+ .sidebar-xs .help,.sidebar-xs .btn-home{
+	width:40px;
+	
+}
+
+.sidebar-sm .help{ 
+	width:80px;
+}
+
+.sidebar-sm .btn-home{
+	width:50px;
+}
+
+/* .sidebar-xs #sidebar, .sidebar-xs .help-border-home{
+	width:50px;
+	
+}
+
+.sidebar-sm #sidebar, .sidebar-sm .help-border-home{
+	width:80px;
+} */
+
+.help .help-border,
+.menu-home .help-border{
+	padding:10px;
+	border:1px solid #bab9b9;
+	font-size:12px;
+	
+}
+
+.help  img,
+.menu-home img{
+	width:100%;
+	min-height:120px
+}
+
+.help-title{
+	font-family:'微软雅黑';
+	font-weight:bold;
+}
+
+.help .help-menu a{
+	color:#a8a8a8;
+}
+
+/* 首页 */
+.home-menu{
+	padding:50px;
+}
+
+.btn-home{
+	width:70%;
+	margin:70px 0px;
+}
+
+.home-menu ul li{
+	padding:5px;
+	margin:0;
+	list-style: none;
+	width:200px;
+	height:270px;
+	float:left;
+} 
+
+
+.home-menu .menu-home:hover{
+	cursor:pointer
+}
+
+.home-menu .help-border-home{
+	padding:10px;
+	border:1px solid #bab9b9;
+ 	width:180px;
+	height:240px;
+}
+
+.home-menu .menu-english{
+	color:#a8a8a8;
+	font-size:12px;
+	
+}
